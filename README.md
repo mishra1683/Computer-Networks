@@ -1,8 +1,6 @@
 <h1 align='center'>Computer Networks Lab Experiments</h1>
 List of experiments conducted in Computer Networks Lab
 
-<center>
-
 | Expt. No. | Title                                           |
 | --------- | ----------------------------------------------- |
 | 1         | Study of Header Files                           |
@@ -13,5 +11,3 @@ List of experiments conducted in Computer Networks Lab
 | 6         | Half Duplex Chat TCP/IP                         |
 | 7         | Full Duplex Chat TCP/IP                         |
 | 8         | File Transfer Protocol                          |
-
-</center>
